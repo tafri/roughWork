@@ -1,2 +1,2 @@
 # roughWork
-file name will reveal per se. 
+funtionality will be revealed by file name per se. 
