@@ -59,6 +59,7 @@ def main():
         lower = 10
     else:
         total_sum = 0
+        print_lower = lower
     a_lower, b_upper = list(), list()
     lower_temp, upper_temp = lower, upper
 
